@@ -6,3 +6,13 @@ ul.menu li:first-child {
         border-bottom-left-radius: 5px;
         border-bottom-right-radius: 5px;
     }
+
+    primero crear un repo en git en el navegador
+    copiar el 6to codigo en un terminal en vsc 
+    para iniciar un repositorio en github "git init"
+    para añadir archivos a git "git remote add origin master" y el link del repo 
+    para añadir despues es "git add (nombre del archivo) " si quieres añadir todos "git add ."
+    para ver status "git status"
+    para hacer commit "git commit -m "(aqui un comentario para explicar que se hizo)" "
+    git push para guardar progreso
+    
