@@ -1,0 +1,8 @@
+ul.menu li:first-child {
+        border-top-right-radius: 5px;
+        border-top-left-radius: 5px;
+    }
+    ul.menu li:last-child {
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
